@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1639054460 source:c:\users\86133\desktop\d\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<memory.h>
+	<math.h>
+	<time.h>
+	<malloc.h>
+
+1639055249 source:c:\users\86133\desktop\ÈÎÎñ2-2020010505-Ñ¦·ÉÓî\main.cpp
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	<iomanip>
+

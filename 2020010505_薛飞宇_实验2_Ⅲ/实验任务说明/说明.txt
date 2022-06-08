@@ -1,0 +1,4 @@
+1.将test文件夹和rules.mak拷贝到Linux下，在test目录下用make编译
+2.在test文件夹中得到执行文件
+3.执行：./pthread
+4.运行结果见output文件

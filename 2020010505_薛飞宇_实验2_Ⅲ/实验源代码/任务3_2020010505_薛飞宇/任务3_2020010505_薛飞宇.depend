@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638687891 source:c:\users\86133\desktop\ÈÎÎñ3_2020010505_Ñ¦·ÉÓî\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"pthread.h"
+

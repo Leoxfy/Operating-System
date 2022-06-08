@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638695422 source:c:\users\86133\desktop\2020010505_薛飞宇_实验3_Ⅲ\实验源代码\任务1_2020010505_薛飞宇\main.cpp
+	<stdio.h>
+	<dos.h>
+	<stdlib.h>
+	<conio.h>
+

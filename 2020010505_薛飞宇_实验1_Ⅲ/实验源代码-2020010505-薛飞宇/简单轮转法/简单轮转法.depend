@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1637889965 source:c:\users\86133\desktop\简单轮转法\main.cpp
+	"stdio.h"
+	<stdlib.h>
+	<conio.h>
+
+1637890127 source:c:\users\86133\desktop\os_实验1\实验源代码-2020010505-薛飞宇\简单轮转法\main.cpp
+	"stdio.h"
+	<stdlib.h>
+	<conio.h>
+

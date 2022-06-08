@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638491047 source:c:\users\86133\desktop\作业调度-2020010505-薛飞宇\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+

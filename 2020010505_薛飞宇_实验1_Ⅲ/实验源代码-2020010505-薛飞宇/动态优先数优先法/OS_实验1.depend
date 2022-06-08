@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1637217686 source:c:\users\86133\desktop\os_实验1\main.cpp
+	"stdio.h"
+	<stdlib.h>
+	<conio.h>
+
+1637219204 source:c:\users\86133\desktop\os_实验1\os_实验1_cpp\main.cpp
+	"stdio.h"
+	<stdlib.h>
+	<conio.h>
+
+1637219204 source:c:\users\86133\desktop\os_实验1\实验源代码\动态优先数优先法\main.cpp
+	"stdio.h"
+	<stdlib.h>
+	<conio.h>
+
+1637219204 source:c:\users\86133\desktop\os_实验1\实验源代码-2020010505-薛飞宇\动态优先数优先法\main.cpp
+	"stdio.h"
+	<stdlib.h>
+	<conio.h>
+
